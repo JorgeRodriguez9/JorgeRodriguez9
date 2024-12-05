@@ -19,7 +19,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jorge andrés rodríguez castaño" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge andrés rodríguez castaño" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-casta%C3%B1o-97a74865/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge andrés rodríguez castaño" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
