@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jorge Andrés Rodríguez Castaño</h1>
-<h3 align="center">Estudiante con gusto por la tecnología, la programación, IA y los sistemas electrónicos.</h3>
+<h3 align="center">Estudiante de Ingeniería de sistemas y computación con gusto por la tecnología, la programación, IA y los sistemas electrónicos.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Programación de redes neuronales artificiales y convolucionales, Algoritmos de machine learning y soluciones para proyectos electrónicos.**
 
