@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Programación de redes neuronales artificiales y convolucionales, Algoritmos de machine learning y soluciones para proyectos electrónicos.**
 
-- 💻 Busco colaborar en colaborar en **Desarrollos de proyectos de software backend o frontend**
+- 💻 Busco colaborar en **Desarrollos de proyectos de software backend o frontend**
 
 - 🤝 Estoy buscando ayuda con **Oportunidades laborales para aportar con mis conocimientos y seguir aprendiendo de este mundo de la programación y la tecnología**
 
