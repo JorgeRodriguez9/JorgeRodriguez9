@@ -40,6 +40,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Jorge-Jupyter" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Jorge-Scrum" height="40" width="40" 
+src="https://img.icons8.com/?size=48&id=d9MaqNTok1pu&format=png">
   <img align="center" alt="Jorge-MySQL" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jorge-SQLServer" height="40" width="40" 
@@ -52,26 +54,34 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-o
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Jorge-Azure" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+  <img align="center" alt="Jorge-AWS" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Jorge-Postman" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   <img align="center" alt="Jorge-Swagger" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
   <img align="center" alt="Jorge-Github" height="40" width="40" 
 src="https://img.icons8.com/ios11/512/FFFFFF/github.png">
-  <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Jorge-Linux" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+    <img align="center" alt="Jorge-Figma" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Jorge-Cisco" height="40" width="40" 
+src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png">
+<br>&nbsp;<br>
+  <img align="center" alt="Jorge-Jira" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg">
+  <img align="center" alt="Jorge-Matlab" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Jorge-PyCharm" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Jorge-powerBI" height="40" width="40" 
+src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png">    
+  <img align="center" alt="Jorge-Arduino" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Jorge-Project" height="40" width="40" 
+src="https://migracion.ucr.ac.cr/wp-content/uploads/2017/03/projectLibre.png">
+
 
 
 </div>
