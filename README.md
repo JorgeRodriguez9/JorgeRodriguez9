@@ -15,7 +15,7 @@
 
 - 📫 Cómo contactarme **https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-casta%C3%B1o-97a74865/overlay/contact-info/**
 
-- ⚡ Dato curioso **Me gusta mucho el desarrollo de software**
+- ⚡ Dato importante **Soy una persona muy diciplinada para el desarrollo de software**
 
 <h3 align="left">Conéctate conmigo:</h3>
 
