@@ -57,7 +57,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-o
   <img align="center" alt="Jorge-Swagger" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
   <img align="center" alt="Jorge-Github" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+src="https://img.icons8.com/ios11/512/FFFFFF/github.png">
   <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Jorge-MongoDB" height="40" width="40" 
