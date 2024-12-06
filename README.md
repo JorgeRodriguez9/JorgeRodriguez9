@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jorge Andrés Rodríguez Castaño</h1>
-<h3 align="center">Estudiante de Ingeniería de sistemas y computación de la Universidad de Cundinamarca.</h3>
+<h3 align="center">Estudiante de Ingeniería de sistemas y computación.</h3>
 <h3 align="center">Actualmente Octavo semestre finalizado.</h3>
 <h3 align="center">Con gusto por la tecnología, la programación, IA y los sistemas electrónicos.</h3>
 
@@ -18,9 +18,10 @@
 - ⚡ Dato curioso **Me gusta mucho el desarrollo de software**
 
 <h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-casta%C3%B1o-97a74865/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge andrés rodríguez castaño" height="30" width="40"/></a>
-</p>
+
+<div> 
+<a href="https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-casta%C3%B1o-97a74865/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -45,5 +46,15 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgerodriguez9&show_icons=true&locale=en&layout=compact" alt="jorgerodriguez9" /></p>
