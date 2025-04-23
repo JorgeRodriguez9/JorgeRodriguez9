@@ -13,7 +13,7 @@
 
 - 💬 **Estudiante de Ingeniería de sistemas y computación. Poseedor de conocimiento en metodología ágil Scrum para el desarrollo de proyectos con buena calidad, Normas y buenas prácticas en el diseño del software tanto para el backend como para el frontend. Estudiante con gusto por la tecnología, la programación y los sistemas electrónicos, además, con conocimiento en inteligencia artificial, algoritmos relacionados con aplicaciones con redes neuronales artificiales, tratamiento de imágenes y redes neuronales convolucionales. Autodidacta y con disposición para escuchar. Comprométido en realizar las tareas con el mayor esfuerzo, siempre esforzándome por alcanzar la excelencia en mis trabajos. Con muchas ganas de seguir aprendiendo, desarrollar mi creatividad y mis habilidades, así como consultar nuevos conocimientos.Poseo un gran sentido de pertenencia, responsabilidad y honestidad, cumpliendo con las labores asignadas y siendo empresario. Además, me desempeño muy bien trabajando en equipo y mantenimiento buenos principios morales y éticos.**
 
-- 📫 Cómo contactarme **https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-casta%C3%B1o-97a74865/overlay/contact-info/**
+- 📫 Cómo contactarme **www.linkedin.com/in/jorge-andrés-rodríguez-castaño**
 
 - ⚡ Dato importante **Soy una persona muy diciplinada para el desarrollo de software**
 
