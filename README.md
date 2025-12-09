@@ -87,5 +87,4 @@ src="https://migracion.ucr.ac.cr/wp-content/uploads/2017/03/projectLibre.png">
 </div>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeRodriguez9&layout=compact&cache_seconds=0" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgerodriguez9&show_icons=true&locale=en&layout=compact" alt="jorgerodriguez9" /></p>
