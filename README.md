@@ -1,25 +1,34 @@
-<h1 align="center">Hola 👋, Soy Jorge Andrés Rodríguez Castaño</h1>
-<h3 align="center">Estudiante de Ingeniería de sistemas y computación.</h3>
-<h3 align="center">Actualmente en espera de ceremonia de graduación.</h3>
-<h3 align="center">Con gusto por la tecnología, la programación, IA y los sistemas electrónicos.</h3>
+<h1 align="center">💻 Jorge Andrés Rodríguez Castaño</h1>
+<h3 align="center">Ingeniero de Sistemas y Computación</h3>
+<h3 align="center">Apasionado por el desarrollo de software, la inteligencia artificial y los sistemas electrónicos.</h3>
 
-- 🌱 Actualmente estoy desarrollando **Programación de redes neuronales artificiales y convolucionales, Algoritmos de machine learning y soluciones para proyectos electrónicos.**
+<h4>👋 Sobre mí</h4>
 
-- 💻 Busco colaborar en **Desarrollos de proyectos de software backend o frontend**
+Soy Ingeniero de Sistemas y Computación, un profesional apasionado por la tecnología, el desarrollo de software y la inteligencia artificial. Me caracterizo por ser autodidacta, disciplinado, con una alta orientación a la excelencia y el cumplimiento de los objetivos.
+Disfruto diseñar y construir soluciones que integran software, electrónica y automatización, aportando valor a proyectos industriales y empresariales.
 
-- 🤝 Estoy buscando ayuda con **Oportunidades laborales para aportar con mis conocimientos y seguir aprendiendo de este mundo de la programación y la tecnología**
+Actualmente me encuentro fortaleciendo mis habilidades en el desarrollo de software, utilizando frameworks como .NET y Angular, trabajando con bases de datos SQL Server, e incorporando técnicas de inteligencia artificial, especialmente en visión por computadora. con el objetivo de aplicar estos conocimientos en soluciones orientadas a proyectos de software,  electrónicos, automatización industrial y desarrollo tecnológico para diferentes tipos de empresas.
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://jorgerodriguez9.github.io/Portafolio/](https://jorgerodriguez9.github.io/portafolio/)
+🎯 **Objetivos profesionales**
 
-- 💬 **Estudiante de Ingeniería de sistemas y computación. Poseedor de conocimiento en metodología ágil Scrum para el desarrollo de proyectos con buena calidad, Normas y buenas prácticas en el diseño del software tanto para el backend como para el frontend. Estudiante con gusto por la tecnología, la programación y los sistemas electrónicos, además, con conocimiento en inteligencia artificial, algoritmos relacionados con aplicaciones con redes neuronales artificiales, tratamiento de imágenes y redes neuronales convolucionales. Autodidacta y con disposición para escuchar. Comprométido en realizar las tareas con el mayor esfuerzo, siempre esforzándome por alcanzar la excelencia en mis trabajos. Con muchas ganas de seguir aprendiendo, desarrollar mi creatividad y mis habilidades, así como consultar nuevos conocimientos.Poseo un gran sentido de pertenencia, responsabilidad y honestidad, cumpliendo con las labores asignadas y siendo empresario. Además, me desempeño muy bien trabajando en equipo y mantenimiento buenos principios morales y éticos.**
+- 💻 Colaborar en **proyectos de desarrollo de software, backend, frontend o full stack**
 
-- 📫 Cómo contactarme **www.linkedin.com/in/jorge-andrés-rodríguez-castaño**
+- 🤝 Encontrar **Oportunidades laborales para aportar con mis conocimientos en entornos reales de trabajo y seguir creciendo como desarrollador**
 
-- ⚡ Dato importante **Soy una persona muy diciplinada para el desarrollo de software**
+- 🚀 Formar parte de equipos donde pueda **aprender, aportar y construir soluciones de alto impacto**
 
-<h3 align="left">Conéctate conmigo:</h3>
+📁 **Portafolio**
 
-<a href="https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-casta%C3%B1o-97a74865/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+Todos mis proyectos están disponibles en [https://jorgerodriguez9.github.io/Portafolio/](https://jorgerodriguez9.github.io/portafolio/)
+
+📫 **Contacto**
+
+- LinkedIn **www.linkedin.com/in/jorge-andrés-rodríguez-castaño**
+- Email **jhoe9@hotmail.com**
+
+⚡ **Dato importante**
+
+Soy una persona disciplinada, comprometida con el aprendizaje continuo y con una fuerte ética profesional. Me motiva crear soluciones eficientes, elegantes y útiles, Contribuyendo tanto a nivel técnico como desde mis valores profesionales.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -80,7 +89,10 @@ src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png">
   <img align="center" alt="Jorge-Arduino" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Jorge-Project" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
+  <img align="center" alt="Jorge-Electron" height="40" width="40"
 src="https://migracion.ucr.ac.cr/wp-content/uploads/2017/03/projectLibre.png">
+
 
 
 
@@ -91,3 +103,4 @@ src="https://migracion.ucr.ac.cr/wp-content/uploads/2017/03/projectLibre.png">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JorgeRodriguez9" alt="Repos per language" />
 </p>
 
+ <a href="https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-casta%C3%B1o-97a74865/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
